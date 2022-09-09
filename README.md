@@ -8,7 +8,7 @@
 ### За время обучения в практикуме работал с:
 
 <img align="left" alt="HTML" width ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png">
-<img align="left" alt="CSS" width="30px" src="https://revvster.in/wp-content/uploads/2019/02/css3-logo-png-transparent-1920x1920.png">
+<img align="left" alt="CSS" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
 <img align="left" alt="JavaScript" width="30px" src="https://www.cischool.ru/wp-content/uploads/2021/04/Depositphotos_41138921_l-2015.jpg">
 <img align="left" alt="React" width="30px" src="https://magantigroupllc.com/images/tech-logos/react-native.png">
 <img align="left" alt="VisualStudioCode" width="30px" src="https://miro.medium.com/max/1200/1*AmHbL-hnvRD6JJGruVu64A.png">
