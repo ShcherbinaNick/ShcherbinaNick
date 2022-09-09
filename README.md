@@ -4,7 +4,7 @@
 - Осваиваю React и JS
 - Стремлюсь к написанию легкоподдерживаемого кода
 - Люблю разбираться в коде и плавать 🏊 
-- 
+
 ### За время обучения в практикуме работал с:
 
 <img align="left" alt="HTML" width ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png">
@@ -19,6 +19,8 @@
 ### Статистика моего путешествия в мире веба:
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShcherbinaNick)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShcherbinaNick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
