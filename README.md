@@ -30,4 +30,7 @@
 
 **Telegram:** <a href="https://t.me/niksherful" target="_blank">https://t.me/niksherful</a> <br />
 **Vk:** <a href="https://vk.com/niksherful" target="_blank">https://vk.com/niksherful</a> <br />
-**E-mail:** niksherful@gmail.com
+**E-mail:** niksherful@gmail.com <br />
+_P.S.
+Осторожно, ссылки открываются в текущей вкладке
+_
