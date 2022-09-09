@@ -23,3 +23,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShcherbinaNick)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShcherbinaNick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+### Мои контакты:
+
+**Telegram:** https://t.me/niksherful
+**Vk:** https://vk.com/niksherful
+**E-mail:** niksherful@gmail.com
