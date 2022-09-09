@@ -28,6 +28,6 @@
 
 ### Мои контакты:
 
-**Telegram:** https://t.me/niksherful
-**Vk:** https://vk.com/niksherful
+**Telegram:** https://t.me/niksherful <br />
+**Vk:** https://vk.com/niksherful <br />
 **E-mail:** niksherful@gmail.com
