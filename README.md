@@ -1,4 +1,4 @@
-# Привет! Я - Никита 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D247&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0)](https://git.io/typing-svg)
 ## Начинающий фронтенд-разработчик из Москвы
 
 - Закончил <a href="https://practicum.yandex.ru">Яндекс.Практикум</a>
