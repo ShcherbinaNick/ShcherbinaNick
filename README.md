@@ -22,6 +22,8 @@
 
 В данный момент решаю задачи на JS и делаю проекты друзьям и знакомым!
 
+<br />
+
 ### Статистика моего путешествия в мире веба:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShcherbinaNick)](https://github.com/anuraghazra/github-readme-stats)
