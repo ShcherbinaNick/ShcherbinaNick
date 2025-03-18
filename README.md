@@ -2,10 +2,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
 - Закончил <a href="https://practicum.yandex.ru">Яндекс.Практикум</a>
-- Осваиваю React и JS
+- Осваиваю React, JS, TypeScript, аккуратно трогаю новые технологии, которые используются в современных проектах
 - Стремлюсь к написанию легкоподдерживаемого кода
-- Люблю разбираться в коде и плавать 🏊 
-
+- Люблю разбираться в коде и плавать 🏊, слежу за развитием веба
+- Пытаюсь получше узнать, как, что, где и когда лучше применять
+  
 ### За время обучения в практикуме работал с:
 
 <img align="left" alt="HTML" width ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png">
@@ -27,7 +28,7 @@
 
 <br />
 
-### Мои контакты:
+### Контакты:
 
 **Telegram:** <a href="https://t.me/niksherful" target="_blank">https://t.me/niksherful</a> <br />
 **Vk:** <a href="https://vk.com/niksherful" target="_blank">https://vk.com/niksherful</a> <br />
