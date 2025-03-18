@@ -16,9 +16,9 @@
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
 <img align="left" alt="Postman" width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
-<img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">\
+<img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">  
 
-В данный момент решаю задачи на JS и делаю проекты друзьям и знакомым!\
+В данный момент решаю задачи на JS и делаю проекты друзьям и знакомым!  
 
 ### Статистика моего путешествия в мире веба:
 
