@@ -18,7 +18,7 @@
 <img align="left" alt="Postman" width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
 <img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
   
-### Статистика моего путешествия в мире веба:
+<br />### Статистика моего путешествия в мире веба:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShcherbinaNick)](https://github.com/anuraghazra/github-readme-stats)
 
